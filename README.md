@@ -10,4 +10,5 @@ Please cite our paper if you use the code: <br />
 H. M. Torun et al., ["A Spectral Convolutional Net for Co-Optimization of Integrated Voltage Regulators and Embedded Inductors"](https://ieeexplore.ieee.org/document/8942109) <br />
 2019 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, USA, 2019.
 
-Documentation is currently being added...
+Please see the comments in the scripts for usage details. A detailed documentation will be made available as soon as possible.
+
